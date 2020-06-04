@@ -1,2 +1,3 @@
 # Malcom X Tribute page
-This is a tribute page for Malcom X.
+View the tribute page in the following URL: 
+https://devenol.github.io/malcomX-tribute-page/
